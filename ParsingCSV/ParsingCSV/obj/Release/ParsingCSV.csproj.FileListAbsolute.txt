@@ -1,0 +1,8 @@
+C:\Users\thiag\Documents\Visual Studio 2015\Projects\ParsingCSV\ParsingCSV\bin\Release\ParsingCSV.exe.config
+C:\Users\thiag\Documents\Visual Studio 2015\Projects\ParsingCSV\ParsingCSV\bin\Release\ParsingCSV.exe
+C:\Users\thiag\Documents\Visual Studio 2015\Projects\ParsingCSV\ParsingCSV\bin\Release\ParsingCSV.pdb
+C:\Users\thiag\Documents\Visual Studio 2015\Projects\ParsingCSV\ParsingCSV\obj\Release\ParsingCSV.FormPrincipal.resources
+C:\Users\thiag\Documents\Visual Studio 2015\Projects\ParsingCSV\ParsingCSV\obj\Release\ParsingCSV.Properties.Resources.resources
+C:\Users\thiag\Documents\Visual Studio 2015\Projects\ParsingCSV\ParsingCSV\obj\Release\ParsingCSV.csproj.GenerateResource.Cache
+C:\Users\thiag\Documents\Visual Studio 2015\Projects\ParsingCSV\ParsingCSV\obj\Release\ParsingCSV.exe
+C:\Users\thiag\Documents\Visual Studio 2015\Projects\ParsingCSV\ParsingCSV\obj\Release\ParsingCSV.pdb
